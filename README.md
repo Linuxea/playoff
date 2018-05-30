@@ -2,4 +2,4 @@
 
 > 数据来自于某体育直播用户评论
 
-![勇士vs火箭西决](western_final.png)
+![勇士vs火箭西决](src/western_final.png)
